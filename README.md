@@ -91,7 +91,7 @@ From the first line, you see that you are currently on `master` branch.
 `git checkout` is a command to jumps from branch to another. If you give it an option -b, it will create a new branch. Let’s try this. Type:
 
 ```
-git branch -b add-description
+git checkout -b add-description
 git status
 ```
 
