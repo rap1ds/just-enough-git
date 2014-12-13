@@ -1,6 +1,6 @@
 (This article has been posted in Sharetribe blog)
 
-# Just enought Git for a non-developer
+# Just enough Git for a non-developer
 
 At Sharetribe almost everyone is somehow dealing with the code. That's the spirit of a small tech startup. We use Git and Github for source code management.
 
@@ -100,7 +100,7 @@ Congrats! You created a branch. `git status` shows you that you are currently in
 Let's make a change to `index.html`. You can see that there's an empty paragraph with class `description`. Add a description, so that the result is:
 
 ```
-<p class=“paragraph”>This is how you branch like a rockstar!</p>
+<p class="description">This is how you branch like a rockstar!</p>
 ```
 
 Next, save the file and use `git add`, `git commit` and `git push` to save and push your changes.
